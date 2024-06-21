@@ -4,7 +4,7 @@ This project is a simple web application built using PHP that helps users split 
 
 ## Description
 
-The PHP Bill Splitter is a web application designed to make it easy to divide expenses among a group of people. Users can enter the total bill amount, the number of people sharing the bill and any additional details to get an equal split for everyone involved.
+The PHP Bill Splitter is a web application designed to make it easy to divide expenses among a group of people. Users can enter the total bill amount, the number of people sharing the bill and the % tip they wish to leave in order to get an equal split for everyone involved.
 
 ## Getting Started
 
@@ -33,14 +33,14 @@ To get started with the PHP Bill Splitter project, follow these steps:
     You can use PHP's built-in web server to run the project locally. Run the following command:
 
     ```bash
-    php -S localhost:8000
+    php -S 0.0.0.0:8080
     ```
 
-    This will start a development server at [http://localhost:8000](http://localhost:8000).
+    This will start a development server at [http://localhost:8080](http://localhost:8080).
 
 4. **Explore the project:**
 
-    Open your web browser and navigate to [http://localhost:8000](http://localhost:8000) to use the PHP Bill Splitter application.
+    Open your web browser and navigate to [http://localhost:8080](http://localhost:8080) to use the PHP Bill Splitter application.
 
 ## Authors
 
@@ -52,3 +52,4 @@ To get started with the PHP Bill Splitter project, follow these steps:
 
 ## Acknowledgements
 
+- PHP: https://www.php.net
